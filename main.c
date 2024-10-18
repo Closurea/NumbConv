@@ -11,7 +11,7 @@ main()
     {
         unsigned long long int input;
         printf("\nPlease Choose one of the options below:\n");
-        printf("1)Binary to Decimal | 2) Decimal to Binary | 3) EXIT\n");
+        printf("1)Binary to Decimal | 2) Decimal to Binary | 3) Exit\n");
         scanf("%llu", &input);
 
         if(input == 3)
